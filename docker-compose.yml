@@ -1,4 +1,4 @@
-name: jenkins_docker
+name: docker
 
 services:
   jenkins:
